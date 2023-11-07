@@ -3,27 +3,25 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi 👋! I'm Muhammad Usama. I'm an experienced full stack developer about 4 years of experience. I'm passionate about learning new technologies and improving existing skills. I have strong critical and analytical skills. I have the ability to work both independently and in team settings.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Work Experience
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+- Embrace IT, Islamabad (May 23 - Present) - Full Stack Developer
+- Fauji Foundation Head Office (May 22 - May 23) - Front End Developer
+- SOFIT Consultancy (Sep 19 - May 22) - Front End Developer
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
+## Technologies I Work With
 
 Here are certain features of this site.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- JavaScript & TypeScript
+- React.js
+- Next.js
+- Svelte & Svelte Kit
+- Astro
+- TailwindCSS
+- Node.js (Express.js, Fastify, Nest.js)
+- REST, GraphQL, tRPC
+- SQL & noSQL Databases
+- AWS
