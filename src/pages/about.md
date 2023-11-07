@@ -13,8 +13,6 @@ Hi 👋! I'm Muhammad Usama. I'm an experienced full stack developer about 4 yea
 
 ## Technologies I Work With
 
-Here are certain features of this site.
-
 - JavaScript & TypeScript
 - React.js
 - Next.js
