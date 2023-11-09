@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hi 👋! I'm Muhammad Usama. I'm an experienced full stack developer about 4 years of experience. I'm passionate about learning new technologies and improving existing skills. I have strong critical and analytical skills. I have the ability to work both independently and in team settings.
+Hi 👋! I'm Muhammad Usama. I'm an experienced full stack developer about 4 years of experience. I'm passionate about learning new technologies and improving existing skills.
 
 ## Work Experience
 
