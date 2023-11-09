@@ -7,10 +7,10 @@ featured: true
 draft: false
 tags:
   - react-js
-description: Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adaptive the signals for reactive and performance reason. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
+description: Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactive and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
 ---
 
-Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adaptive the signals for reactive and performance reason. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
+Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactive and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
 
 ## Table of contents
 
@@ -192,10 +192,10 @@ On initial load we see this,
 ```ts
 // browser console
 
-rendered app             App.tsx:7
-rendered Component1      Component1.tsx:2
-rendered Component2      Component2.tsx:2
-rendered Component3      Component3.tsx:2
+rendered app             App.tsx:11
+rendered Component1      Component1.tsx:4
+rendered Component2      Component2.tsx:4
+rendered Component3      Component3.tsx:4
 ```
 
 Which is completely fine, as on first load all components will be rendered. But when the button is pressed to toggle state we see this,
