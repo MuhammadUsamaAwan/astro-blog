@@ -7,10 +7,10 @@ featured: true
 draft: false
 tags:
   - react-js
-description: Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactive and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
+description: Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactivity and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
 ---
 
-Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactive and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
+Hooks in React are hard to use correctly and even hard to use them and in a performant way. Many newer frontend frameworks are adapting signals for reactivity and performance. In this article we will look at how you can use signals in React to optimize perfomance and manage state in your application.
 
 ## Table of contents
 
